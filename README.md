@@ -1,7 +1,7 @@
 ### COGS 108 Final Project
 Data analysis group final project for UCSD COGS 108 - Data Science in Practice 
 
-## Repo overview
+## Overview
 - Project Jupyter notebooks
   - `ProjectProposal_groupXXX.ipynb` - Project proposal notebook 
   - `DataCheckpoint_groupXXX.ipynb` - Project checkpoint 1 notebook 
