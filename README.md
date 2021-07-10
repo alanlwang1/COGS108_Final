@@ -1,4 +1,4 @@
-### COGS 108 Final Project
+# COGS 108 Final Project
 Data analysis group final project for UCSD COGS 108 - Data Science in Practice 
 
 ## Overview
