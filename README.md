@@ -1,5 +1,5 @@
 ### COGS 108 Final Project
-Data analysis final project for UCSD COGS 108 - Data Science in Practice 
+Data analysis group final project for UCSD COGS 108 - Data Science in Practice 
 
 ## Repo overview
 - Project Jupyter notebooks
